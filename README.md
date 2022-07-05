@@ -22,6 +22,7 @@
 <a href="https://fb.com/manggaraaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="manggaraaaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manggaraaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/manggaraaaa" height="30" width="40" /></a>
 <a href="https://instagram.com/m4nggaraaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m4nggaraaaa" height="30" width="40" /></a>
+<a href="https://medium.com/@manggaraaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="m4nggaraaaa" height="30" width="40" /></a>
 <!--
 <a href="/https://manggaraaaa.space/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://manggaraaaa.space/rss.xml" height="30" width="40" /></a>
 -->
