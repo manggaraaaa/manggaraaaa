@@ -1,7 +1,7 @@
 ### Hi 👋 , I'm Manggaraaaa
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=manggaraaaa&show_icons=true&theme=onedark&locale=en" alt="manggaraaaa" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=manggaraaaa&show_icons=true&theme=onedark&locale=en" alt="manggaraaaa" /></p> -->
 
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manggaraaaa" alt="manggaraaaa" /></a></p>
